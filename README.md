@@ -14,9 +14,3 @@ Preset UserID and Password for the 3 user profiles are:
 [Oscar ; c123]
 
 For more details on the project refer RSA_Computer_Project_NEW.pdf
-
-For a presentation on topics related to the project refer PUBLIC KEY CRYPTOGRAPHY AND RSA.pptx
-
-  (*Note that this presenation was made for teaching purpose and hence doesn not have much information)
-  
- 
