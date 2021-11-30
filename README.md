@@ -1,7 +1,8 @@
 # RSA-Demonstration
 
 
-This is an application that implements RSA encryption and decrytpion and simulates secure communication among 3 preset user profiles - Alice, Bob, Oscar.
+This is a project that I had completed with 3 of my classmates as part of the mandatory project submission for my Class 12 Computer Science course.
+It is an application that implements RSA encryption and decrytpion and simulates secure communication among 3 preset user profiles - Alice, Bob, Oscar.
 
 To run the program:
 1. Save all related files to a common path
@@ -14,7 +15,7 @@ Preset UserID and Password for the 3 user profiles are:
 
 For more details on the project refer RSA_Computer_Project_NEW.pdf
 
-For a presentation on topics related to the project refer PUBLIC KEY CRYPTOGRAPHY AND RSA.PPTX
+For a presentation on topics related to the project refer PUBLIC KEY CRYPTOGRAPHY AND RSA.pptx
 
   (*Note that this presenation was made for teaching purpose and hence doesn not have much information)
   
