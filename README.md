@@ -9,8 +9,8 @@ To run the program:
 2. Run file gui.py
 
 Preset UserID and Password for the 3 user profiles are:
-[Alice ; a123]
-[Bob ; b123]
-[Oscar ; c123]
+ - Alice ; a123
+ - Bob ; b123
+ - Oscar ; c123
 
-For more details on the project refer RSA_Computer_Project_NEW.pdf
+For more details on the project refer to the [project report](https://github.com/Aathira-S/RSA-Demonstration/blob/main/RSA_Computer_Project_NEW.pdf).
